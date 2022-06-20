@@ -1,3 +1,4 @@
+![Metrics](https://metrics.lecoq.io/Ifstyke?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 ### Hi there 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ifstyke&show_icons=true&theme=dark&count_private=true)
 <!--
