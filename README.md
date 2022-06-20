@@ -1,4 +1,5 @@
 <div align="center"> <img src="https://metrics.lecoq.io/Ifstyke?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ifstyke&show_icons=true&theme=dark&count_private=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 ### Hi there 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ifstyke&show_icons=true&theme=dark&count_private=true)
 <!--
